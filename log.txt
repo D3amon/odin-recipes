@@ -1,2 +1,2 @@
 -J-  -19-08-2025 S 20:00 - E 22.21 - finished index + First recipe (Lasagna)
--J-  -20-08-2025 s 20:02 - e 0.0 - finished second and third recipe (mac and cheese + pizza)
+-J-  -20-08-2025 s 20:02 - e 21.00 - finished second and third recipe (mac and cheese + pizza)

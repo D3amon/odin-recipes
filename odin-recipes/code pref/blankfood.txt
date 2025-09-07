@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lasagna</title>
+</head>
+<body>
+    
+    <h1> . </h1>
+    <img src=" . " alt=" . " width="250" height="150">
+    <h3>Description</h3>
+    <p>The following will be the recipe for a ... and a list of ingredients.</p>
+    <p>you will be able to make your very own delicious . at home with the following ingredients and steps.</p>
+    <h4>Ingredients</h4>
+    <ul>
+        <li> . </li>
+        <li> . </li>
+        <li> . </li>
+        <li> . </li>
+        <li> . </li>
+        <li> . </li>
+        <li> . </li>
+        <li> . </li>
+        <li> . </li>
+    </ul>
+    <h4>Steps</h4>
+    <ol>
+        <li> . </li>
+        <li> . </li>
+        <li> . </li>
+        <li> . </li>
+        <li> . </li>
+    </ol>
+    <h6><a href="../index.html">Back</a></h6>
+    <h6><a href="https://www.allrecipes.com/">Sources</a></h6> 
+
+</body>
+</html>
